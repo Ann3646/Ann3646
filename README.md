@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ann3646
+- 👋 Hi, I’m @Ann3646 (Ann Mukiri Karanja)
+- I am a Kenyan female aged 26.
+- I work in a Fintech, and I'm enthusiastic about learning more about Fintechs and solving problems in the Fintech space.
 - 👀 I’m interested in analyzing and finding solutions towards solving issues relating to Fintechs.
 - 🌱 I’m currently learning Data Analysis and SQL.
 - 💞️ I’m looking to collaborate on projects that relate to,problem and risk identification, developing strategies, testing and implementing solutions.
